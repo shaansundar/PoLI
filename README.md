@@ -23,3 +23,11 @@ The Infringement algorithm, the code, smart contract, etc. are open and free to 
 6. Paste two documents and rename them *paper1.pdf* and *paper2.pdf*. Remember *paper1.pdf* will be published to the blockchain whereas the other is for infringement checking.
 
 7. Run ```core.py```
+
+## Author
+
+Shaan Sundar, 
+
+Twitter: @notthatsundar
+
+email: shaan.idtindia@gmail.com
