@@ -19,4 +19,4 @@ def doctopoli (words):
                 cypher[j]=int(cypher[j]/5)
     return(cypher)
 
-#print(doctopoli('Shaan here 1 2 9 0'))
+#TEST WITH: print(doctopoli('Shaan here 1 2 9 0'))
