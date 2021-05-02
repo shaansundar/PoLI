@@ -2,6 +2,7 @@ from web3 import Web3
 import json
 
 url="https://eth-mainnet.alchemyapi.io/v2/E6cSIEaRt3rtEqX-f4RfgP5M17GQzREl"
+tezos_url="https://api.tzstats.com"
 test_url="https://eth-ropsten.alchemyapi.io/v2/E6cSIEaRt3rtEqX-f4RfgP5M17GQzREl"
 test_url2="https://ropsten.infura.io/v3/eecce0fb50ab42d380100756f803f929"
 g_url="HTTP://127.0.0.1:8545"
