@@ -5,7 +5,7 @@ PoLI is a proposed consensus mechanism which runs by hashing the uniqueness of a
 
 The Infringement algorithm, the code, smart contract, etc. are open and free to use. Feel free to mention me if you like it xD
 
-**Update v1.0.1: Tezos integration now supported:** Change url from `test_url` to `tezos_mainnet` to continue working with Tezos mainnet
+**Update v1.0.1: Matic integration now supported:** Change url from `test_url` to `matic_url` to continue working with Matic mainnet. Note: Matic SDK configuration is necessary and it is not as readily supported as Ethereum.
 
 
 
